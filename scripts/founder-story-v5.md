@@ -36,7 +36,7 @@ Anything in **[brackets]** still needs a real answer from the owner.
 
 ### 5. Proof (40–47s)
 - 🎥 Fast montage of real installs: a BTO flat, a condo, a landed house.
-- 🎙️ "Four years in, we've done 400+ homes across Singapore." *(see check #1)*
+- 🎙️ "Four years in, hundreds of homes across Singapore."
 
 ### 6. Ending (47–55s)
 - 🎥 Dad presses one of your switches. **[His real reaction / line]**
@@ -57,12 +57,11 @@ Anything in **[brackets]** still needs a real answer from the owner.
 | Nova+ Pro: illuminated name on every key | homepage |
 | Switches relay signals room to room, helps with concrete walls | homepage FAQ (Zigbee network through the Maxsen gateway) and Journal: "Matter, Thread, Zigbee and Wi-Fi explained" |
 | 6,000 K to 1,800 K from the same downlight | `alchemist.html` (Light Alchemist upgrade; standard range is 2,700–6,000 K) |
-| 400+ homes | homepage: "200+ HDB & BTO, 100+ Condo, 100+ Landed" |
+| Hundreds of homes | homepage: "200+ HDB & BTO, 100+ Condo, 100+ Landed" (owner chose "hundreds") |
 | Tampines showroom | homepage: 9004 Tampines Street 93, daily 10am–8pm by appointment |
 | End line | homepage: "A beautiful home deserves beautiful intelligence." |
 
 ## Checks before filming
-1. **400+ homes:** the site lists 200+ / 100+ / 100+, which adds up to 400+. Confirm you're happy to say "400+", or use "hundreds of homes".
-2. **1,800 K is the Light Alchemist upgrade**, not standard. If you film it, use an upgraded fitting.
-3. **Dad's line.** Still the one detail that isn't on the website. Is he willing to be on camera?
-4. **The website has no founder story.** Once the video is out, consider adding a short "Our story" section so the two match.
+1. **1,800 K is the Light Alchemist upgrade**, not standard. If you film it, use an upgraded fitting.
+2. **Dad's line.** Still the one detail that isn't on the website. Is he willing to be on camera?
+3. **The website has no founder story.** Once the video is out, consider adding a short "Our story" section so the two match.
